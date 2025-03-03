@@ -11,13 +11,6 @@
 
 ---
 
-## Contenido
-
-- [Descripción](#descripción)
-- [Tecnologías](#tecnologías)
-
----
-
 ## Descripción
 
 La aplicación **Ruleta** consta de dos componentes principales:
