@@ -6,8 +6,9 @@
 
 ## 🌐 Despliegue
 
-- La aplicación está desplegado en Vercel. 
-- Puedes verlo en: <a href="https://ruleta-app.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" width="40" height="40"/></a>
+La aplicación está desplegado en Vercel. 
+
+Puedes verlo en: <a href="https://ruleta-app.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" width="40" height="40"/></a>
 
 ---
 
